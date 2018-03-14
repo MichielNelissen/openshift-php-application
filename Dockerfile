@@ -1,3 +1,3 @@
-FROM michielnelissen<F2>openshift-webserver:latest
+FROM michielnelissen/openshift-webserver:latest
 COPY . /app/
 
